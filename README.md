@@ -1,4 +1,6 @@
-# tugas
+# Tugas Mobile
+## Dustin Hessel Kopalit (2209106045)
+## Anandita Agung Nugraha (2209106042)
 
 A new Flutter project.
 
