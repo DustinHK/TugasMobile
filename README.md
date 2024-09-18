@@ -3,6 +3,7 @@
 ## Anandita Agung Nugraha (2209106042)
 
 A new Flutter project.
+![image](https://github.com/user-attachments/assets/a300f3ad-8fbf-4fb7-b182-2b2a663956b6)
 
 ## Getting Started
 
